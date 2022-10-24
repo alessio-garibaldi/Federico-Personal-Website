@@ -8,7 +8,7 @@ body {
 
 
 body.body-tour {
-    background-image: url("design/blue-mobile.jpg");
+    background-image: url("./design/blue-mobile.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -58,7 +58,7 @@ body.body-tour {
     }
 
     body.body-tour {
-        background-image: url("design/blue-tablet.jpg");
+        background-image: url("./design/blue-tablet.jpg");
         background-size: 100vh 100vw;
         background-repeat: no-repeat;
     }
@@ -82,7 +82,7 @@ body.body-tour {
     }    
 
     .form-box {
-        background-image: url("design/smoke-newsletter-lg.jpg");
+        background-image: url("./design/smoke-newsletter-lg.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -124,7 +124,7 @@ body.body-tour {
     }
 
     body.body-tour {
-        background-image: url("design/blue.jpg");
+        background-image: url("./design/blue.jpg");
         background-size: 100vw 100vh;
         background-repeat: no-repeat;
     }
@@ -269,7 +269,7 @@ body.body-tour {
     display: flex !important;
     align-items: center;
     margin: 0;
-    background-image: url("design/smoke-music.jpg") !important;
+    background-image: url("./design/smoke-music.jpg") !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
 }
@@ -336,7 +336,7 @@ body.body-tour {
 
 /* FORM DI ISCRIZIONE */
 .form-box {
-    background-image: url("design/smoke-newsletter.jpg");
+    background-image: url("./design/smoke-newsletter.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
